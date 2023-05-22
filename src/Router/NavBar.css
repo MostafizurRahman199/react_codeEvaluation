@@ -1,0 +1,28 @@
+.menu {
+    display: flex;
+    gap: 1em;
+    font-size: 18px;
+    color: white
+   }
+
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: rgb(0, 0, 0);
+    
+   }
+
+   .nav-link{
+    color: white;
+    text-decoration: none;
+   }
+   .nav-link:hover{
+    color: orangered;
+   }
+
+   nav .active{
+    color: red;
+   }

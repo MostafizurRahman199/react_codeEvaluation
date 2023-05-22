@@ -1,0 +1,30 @@
+export const BlogsData = [
+    {
+        id:1,
+        title:"html",
+        body: "The entire procedure of acquiring, storing, and delivering resources to their intended location is referred to as “logistics“. Among other things, it includes stock, tools, people, and raw materials. The National Logistics Policy was created to improve integration and cooperation between corporate entities, governmental organisations, and society at large in order to turn the Indian logistics industry into a significant driver of economic growth. The NLP strives to establish a thriving logistics ecosystem that encompasses all participants from many industries, including business, manufacturing, services, and agriculture. The NLP also offers a framework for supporting improved movement of commodities through contemporary transportation infrastructure across all modes of transportation, including roads, trains, waterways, etc., along with increasing the quality of traffic control systems. The goal of the strategy is to give multimodal connectivity infrastructure to various economic zones in addition to PM Modi’s Gati Shakti-National Master Plan, which was introduced in 2021. About eight years it took to develop NLP. Changes in policy and significant decisions are being taken to speed up last-mile delivery, put an end to transportation-related problems, save manufacturers time and money, and prevent the loss of agricultural products. Sector speed, value generation, and entrepreneurship will all increase when coordination is improved"
+        
+
+    },
+    {
+        id:2,
+        title:"CSS",
+        body: "The entire procedure of acquiring, storing, and delivering resources to their intended location is referred to as “logistics“. Among other things, it includes stock, tools, people, and raw materials. The National Logistics Policy was created to improve integration and cooperation between corporate entities, governmental organisations, and society at large in order to turn the Indian logistics industry into a significant driver of economic growth. The NLP strives to establish a thriving logistics ecosystem that encompasses all participants from many industries, including business, manufacturing, services, and agriculture. The NLP also offers a framework for supporting improved movement of commodities through contemporary transportation infrastructure across all modes of transportation, including roads, trains, waterways, etc., along with increasing the quality of traffic control systems. The goal of the strategy is to give multimodal connectivity infrastructure to various economic zones in addition to PM Modi’s Gati Shakti-National Master Plan, which was introduced in 2021. About eight years it took to develop NLP. Changes in policy and significant decisions are being taken to speed up last-mile delivery, put an end to transportation-related problems, save manufacturers time and money, and prevent the loss of agricultural products. Sector speed, value generation, and entrepreneurship will all increase when coordination is improved"
+        
+
+    },
+    {
+        id:3,
+        title:"JavaScript",
+        body: "The entire procedure of acquiring, storing, and delivering resources to their intended location is referred to as “logistics“. Among other things, it includes stock, tools, people, and raw materials. The National Logistics Policy was created to improve integration and cooperation between corporate entities, governmental organisations, and society at large in order to turn the Indian logistics industry into a significant driver of economic growth. The NLP strives to establish a thriving logistics ecosystem that encompasses all participants from many industries, including business, manufacturing, services, and agriculture. The NLP also offers a framework for supporting improved movement of commodities through contemporary transportation infrastructure across all modes of transportation, including roads, trains, waterways, etc., along with increasing the quality of traffic control systems. The goal of the strategy is to give multimodal connectivity infrastructure to various economic zones in addition to PM Modi’s Gati Shakti-National Master Plan, which was introduced in 2021. About eight years it took to develop NLP. Changes in policy and significant decisions are being taken to speed up last-mile delivery, put an end to transportation-related problems, save manufacturers time and money, and prevent the loss of agricultural products. Sector speed, value generation, and entrepreneurship will all increase when coordination is improved"
+        
+
+    },
+    {
+        id:4,
+        title:"React",
+        body: "The entire procedure of acquiring, storing, and delivering resources to their intended location is referred to as “logistics“. Among other things, it includes stock, tools, people, and raw materials. The National Logistics Policy was created to improve integration and cooperation between corporate entities, governmental organisations, and society at large in order to turn the Indian logistics industry into a significant driver of economic growth. The NLP strives to establish a thriving logistics ecosystem that encompasses all participants from many industries, including business, manufacturing, services, and agriculture. The NLP also offers a framework for supporting improved movement of commodities through contemporary transportation infrastructure across all modes of transportation, including roads, trains, waterways, etc., along with increasing the quality of traffic control systems. The goal of the strategy is to give multimodal connectivity infrastructure to various economic zones in addition to PM Modi’s Gati Shakti-National Master Plan, which was introduced in 2021. About eight years it took to develop NLP. Changes in policy and significant decisions are being taken to speed up last-mile delivery, put an end to transportation-related problems, save manufacturers time and money, and prevent the loss of agricultural products. Sector speed, value generation, and entrepreneurship will all increase when coordination is improved"
+        
+
+    },
+]
